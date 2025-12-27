@@ -18,7 +18,7 @@ fruits = 'mangos'
 print(fruits)
 
 fruits = "pawpaw"
-print(fruits)
+print(fruits)0
 # strings can be single or double quote
 
 x = 'i told you "python is easy to learn"'

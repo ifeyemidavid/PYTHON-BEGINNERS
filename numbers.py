@@ -51,3 +51,9 @@ print(x)
 
 x = 4 / 2
 print(x)
+
+a = 3
+b = 4
+c = 8
+d = 2
+print(a*b*c+d%d/a-d**a)
